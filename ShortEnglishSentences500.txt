@@ -1,0 +1,523 @@
+1	  The unleashed power of the atom has changed everything save our modes of thinking, and we thus drift toward unparalleled catastrophes.
+2	 It is only with the heart that one can see rightly; what is essential is invisible to the eye. 
+3	 Love does not consist in gazing at each other, but in looking together in the same direction. 
+4	 A great writer is, so to speak, a second government in his country. And for that reason no regime has ever loved great writers, only minor ones.
+5	 The computer is only a fast idiot; it has no imagination; it cannot originate action. It is, and will remain, only a tool of man.
+6	 It is my intention to present - through the medium of photography - intuitive observations of the natural world which may have meaning to the spectators.
+7	 America is a large, friendly dog in a very small room. Every time it wags its tail it knocks over a chair.
+8	 Man is born to live, not to prepare for life. Life itself, the phenomenon of life, the gift of life, is so breathtakingly serious!
+9	 Like all great travellers, I have seen more than I remember, and remember more than I have seen.
+10	 When she finally stopped conforming to the conventional picture of femininity she finally began to enjoy being a woman.
+11	 A woman means by unselfishness chiefly taking trouble for others; a man means not giving trouble to others. Thus each sex regards the other as basically selfish.
+12	 We are an intelligent species and the use of our intelligence quite properly gives us pleasure. In this respect the brain is like a muscle. When it is in use we feel very good. Understanding is joyous. 
+13	 Man with all his noble qualities...with his godlike intellect which has penetrated into the movements and constitution of the solar system...still bears in his bodily frame the indelible stamp of his lowly origin. 
+14	 If you want to be happy for a year, plant a garden; if you wnat to be happy for life, plant a tree.
+15	
+16	 Two cheers for democracy: one because it admit variety and two because it permits criticism. Two cheers are quite enough: There is no occasion to give three.
+17	 Democracy is the recurrent suspicion that more than half of the people are right more than half of the time. 
+18	 My own art is a negation of society, an affirmation of the individual, outside all rules and demands of society.
+19	 A sudden, bold, and unexpected question doth many times surprise a man and lay him open. 
+20	 If a man will begin with certainties, he shall end in doubt; but if he will be content to begin with doubts he shall end in certainties.
+21	 The test of our progress is not whether we add more to the abundance of those who have much; it is whether we provide enough for those who have too little.
+22	 No human being can really understand another, and no one can arrange another's happiness. 
+23	 One man who has a mind and knows it can always beat ten men who haven't and don't. 
+24	 We have no more right to consume happiness without producing it than to consume wealth without producing it. 
+25	 He knows nothing; he thinks he knows everything - that clearly points to a political career. 
+26	 Education has produced a vast population able to read but unable to distinguish what is worth reading. 
+27	 What experience and history teach is this - that people and government never have learned anything from history, or acted on principles deduced from it.
+28	 It is not the employer who pays wages - he only handles the money. It is the product that pays wages.
+30	 I think that we should be men first, and subjects afterward. It is not desirable to cultivate a respect for the law, so much as for the right. 
+31	 Hear that lonesome whippoorwill? He sounds too blue to fly. The midnight train is whining low, I'm so lonesome I could cry.
+32	 Children and dogs are as necessary to the welfare of this country as Wall Street and the railroads.
+33	 You will kill 10 of our men, and we will kill one of yours, and in the end it will be you who tires of it.
+34	 I want nothing to do with any religion concerned with keeping the masses satisfied to live in hunger, filth and ignorance.
+35	 The richest peach is highest on the tree. 
+36	 A writer must refuse to allow himself to be transformed into an institution.
+37	 Once you say you're going to settle for second, that's what happens to you in life, I find. 
+38	 We're more popular than Jesus now. I don't know which will go first - rock 'n' roll or Christianity. 
+39	 I believe there are more instances of the abridgment of the freedom of the people by gradual and silent encroachments of those in power than by violent and sudden usurpations. 
+40	 It is these well-fed long-haired men that I fear, but the pale and the hungry-looking.
+41	 New opinions are always suspected, and usually opposed, without any other reason but because they are not already common. 
+42	 When commercial capital occupies a position of unquestioned ascendancy, it everywhere constitutes a system of plunder.
+43	 The best and most beautiful things in the world cannot be seen of even touched. 
+44	 He is lifeless that is faultless.
+45	 Go to vintage without baskets.
+46	 Secret of success is constancy to purpose.
+47	 Danger foreseen is half avoided.
+48	 Good words cost nothing.
+49	 Good name is better than a golden girdle.
+50	 If the wind will not serve, take to the oars.
+51	 He who carries nothing loses nothing.
+52	 Dreams go by contraries.
+53	 Non but a wise man can employ leisure well.
+54	 Honey catches more flies than vinegar.
+55	 Hog in armour is still but a hog.
+56	 He that can make a fire well can end a quarrel.
+57	 Friend to all is a friend to none.
+58	 Gift long waited for is sold, not given.
+59	 Deep sorrow has no tongue.
+60	 No man can call again yesterday.
+61	 Make yourself all honey, and the flies will devour you.
+62	 Second thoughts are best.
+63	 keep the common road, and you are safe.
+64	 Justice has long arms
+65	 It is good to have friends but bad to need them.
+66	 Kill one with kindness.
+67	 Eating little and speaking little can never do harm.
+68	 Idle men are dead all their life long.
+69	 A small leak will sink a great ship.
+70	 He who begins many things, finishes but few.
+71	 The grass is always greener on the other side of the fence.
+72	 Respect is greater from a distance.
+73	 Avarice is the only passion that never ages.
+74	 From saying to doing is a long step.
+75	 The more the merrier.
+76	 Talk of the devil, and he is bound to appear.
+77	 Learn to say before you sing.
+78	 Old men are twice children.
+79	 Covetousness is always filling a bottomless vessel.
+80	 The first blow is halfly the battle.
+81	 Beauty is in the eyes of the beholder.
+82	 Finding's keeping.
+83	 Time and tide wait for no man.
+84	 Hunger is the best sauce.
+85	 A little learning is a dangerous thing.
+86	 He that has a great nose thinks everybody is speaking of it.
+87	 There is truth in wine.
+88	 The more noble, the more humble.
+89	 The pleasures of the mighty are the tears of the poor.
+90	 All that glitters is not gold.
+91	 Once bitten twice shy
+92	 Out of the frying pan into the fire.
+93	 Money will do anything.
+94	 The tailor makes the man.
+95	 When the well is full, it will run over.
+96	 The used key is always bright.
+97	 Men are blind in their own causes.
+98	 Two dogs strive for a bone, and a third runs away with it.
+99	 Nature admits not a lie.
+100	 Knave is one knave, but a fool is many.
+101	 Manners are stronger than laws.
+102	 If you would wish the dog to follow you, feed him.
+103	 Never judge by appearances.
+104	 Age is a matter of feeling, not of years.
+105	 Hungry dogs will eat dirty puddings.
+106	 Draw not your bow until your arrow is fixed.
+107	 From nothing, nothing can come.
+108	 We sink to rise.
+109	 Remove an old tree and it will die.
+110	 Bacchus kills more than Mars.
+111	 Time discloses all things.
+112	 The first step is always the hardest.
+113	 Speak of the devil.
+114	 Necessity is the mother of invention.
+115	 The pen is mightier than the sword.
+116	 Clothes do not make the man.
+117	 Novelty is the great parent of pleasure.
+118	 You can't seek Lady Luck; Lady Luck seeks you.
+119	 Asking costs nothing.
+120	 Popular opinion is the greatest lie in the world.
+121	 Delay increases desire and sometimes extinguishes them.
+122	 The pot calls the kettle black.
+123	 Everything is good for something.
+124	 Words are the voice of the heart.
+125	 Whatever you undertake, think of the end.
+126	 A bargain usually costs you more in the end.
+127	 He who knows only his side of the case knows little of that.
+128	 The longest night must end.
+129	 The best means of destroying an enemy is to make him your friend.
+130	 The first step is the hardest.
+131	 A man is twice miserable when he fears his misery before it comes.
+132	 The sickness of the body may prove the health of the mind.
+133	 To refuse graciously is half to grant a favor.
+134	 Gentleness corrects whatever is offensive in our manner.
+135	 Profit all mankind.
+136	 My house burned up, but do died the bedbugs.
+137	 A man with three daughters can sleep his door open.
+138	 A day is like three autumns.
+139	 The best of plans is to run away.
+140	 Pay condolences when the lord's horse dies but not when the lord dies.
+141	 See one and know ten.
+142	 Even the evil spirits don't know.
+143	 Knowing characters is worry and trouble.
+144	 Where three travel together, one will be my teacher.
+145	 Hearing times is not like seeing once.
+146	 Father hands down, son hands down.
+147	 A stilt friend.
+148	 Give the disease and offer the remedy.
+149	 The sickness of the body may prove the health of the mind.
+150	 Discard the head and lop off the tail.
+151	 Fix the hedge gate after you've been robbed.
+152	 There is love downward but no love upward.
+153	 Seldom seen, soon forgotten.
+154	 Any time means no time.
+155	 Anyone who goes hungry for three days will steal.
+156	 To be prepared is to have no anxiety.
+157	 The second word makes the quarrel.
+158	 Charity begins at home.
+159	 Love is blind; so is hatred.
+160	 The angry man opens his mouth and shuts his eyes.
+161	 The only way to have a friend is to be one.
+162	 Laugh and the world laugh with you; weep, and you weep alone.
+163	 The best things in life are free.
+164	 Better be a bird in the wood than one in the cage.
+165	 When angry count ten; when very angry, a hundred.
+166	 If you submit to one wrong you bring on another.
+167	 He can't see the forest for the trees.
+168	 What's yours is mine, and what's mine is my own.
+169	 Sorrow is laughter's daughter.
+170	 Misfortune seldom comes alone.
+171	 Misfortune is a good teacher.
+172	 A desperate disease must have a desperate cure.
+173	 The remedy is worse than the disease.
+174	 Like back and expectorate.
+175	 Quarreling is the weapon of the weak.
+176	 Like he's bewitched by a goblin.
+177	 The fowl knows the serpent's sneeze.
+178	 
+179	 If you sing before seven, you will cry before eleven.
+180	 Resolve lasts three days.
+181	 The day's plan should made out early in the morning.
+182	 The getting out of the door is the greatest part of the journey.
+183	 A good beginning makes a good ending.
+184	 As the life is, so is the end.
+185	 Without a friend to share them, no goods we posses are rally enjoyable.
+186	 Charity begins at home.
+187	 If you're not stingy, you're not wealthy, and if you're not wealthy, you're not stingy.
+188	 A song will outlive sermons in the memory.
+189	 The merry in heart have a continual feast.
+190	 Visits should be short like a Winter's day.
+191	 There's no joy in anything unless we share it.
+192	 Not the slightest hint to the liver.
+193	 Snow is the poor man's fertilizer.
+194	 It's easier to fall than to get on your feet.
+195	 The filth under the white snow the sun discovers.
+196	 Mind unemployed is mind unenjoyed.
+197	 It's time to wink as well as to see.
+198	 All that we know is that we know nothing.
+199	 When you are good to others, you are best to yourself.
+200	 Pull down on your hat on the wind side.
+201	 There is an eternal bliss in a momentary kiss.
+202	 One evil breeds another.
+203	 All is luck or illluck in this world.
+204	 Cold hand, warm heart.
+205	 A clean glove often hides a dirty hand.
+206	 Truth is the best advocate.
+207	 Rise with the Sun and enjoy the day.
+208	 Follow your own star!
+209	 What much is worth comes from the earth.
+210	 Time flies like an arrow and time lost never returns.
+211	 Sweet sixteen and never been kissed.
+212	 Hope to the end.
+213	 Nothing costs so much as what is given to us.
+214	 Throw the baby out with the bath water.
+215	 The richer get richer and the poor get babies.
+216	 The more violent the storm the sooner it is over.
+217	 A stitch in time saves nine.
+218	 Two in distress make trouble less.
+219	 If the shoes fits, wear it.
+220	 Knowing characters is worry and trouble.
+221	 Pichers have ears.
+222	 If you would be loved, love and be lovable.
+223	 Over shoes, over boots.
+224	 That's the way the cookie crumbles.
+225	 Every cook praises his own soup.
+226	 Great talent takes time to ripen.
+227	 After cheese comes nothing.
+228	 If you have bread, don't look for cake.
+229	 The biter is sometimes bit.
+230	 A hot potato is hard to cool.
+231	 The sweetest grapes hang highest.
+232	 An eye for an eye and a tooth for an tooth!
+233	 A woman's tongue is only three inches long, but it can kill a man six feet high.
+234	 The burden is light on the shoulders of others.
+235	 Let your nose go in front, but don't always follow it.
+236	 He who loses money, loses much; he who loses a friend loses more; he who loses his nerve, loses all.
+237	 Don't stick out your neck for someone to hang a rope around.
+238	 Wisdom may come out of the mouths of babes.
+239	 None of your lips!
+240	 If you have no courage, you must have fast legs.
+241	 Once a heel, always a heel.
+242	 What comes from the heart goes to the heart.
+243	 Two heads are better than one.
+244	 A beard well lathered, is halfshaved.
+245	 Don't judge a man until you've walked in his boots.
+246	 Walls have ears.
+247	 The price of your hat isn't the measure of your brain.
+248	 The tongue is boneless but it breaks bones.
+249	 One hand washes the other.
+250	 Never swap horses crossing a stream.
+251	 Two men may meet but never two mountains!
+252	 The greatest rivers must run into the sea.
+253	 All water runs to the sea.
+254	 The frog in the well knows nothing of the great ocean.
+255	 A wicked book is the more wicked because it cannot repent.
+256	 Reading makes a full man.
+257	 Too many books make us ignorant.
+258	 Don't judge a book by its cover.
+259	 God gives every bird his worm, but he does not throw it into the nest.
+260	 A good book is your best friend.
+261	 Without patronage art is like a windmill without wind.
+262	 The strongest oaths are straw to the fire.
+263	 Best dealing with an enemy when you take him at his weakest.
+264	 Freedom is not worth having if it does not include the freedom to make mistakes.
+265	 Never trouble trouble till trouble troubles you.
+266	 Blind chance sweeps the world along.
+267	 Punish yourself, abandon yourself.
+268	 Good courage breaks bad luck!
+269	 The pot calls the kettle black.
+270	 The yellow dog is brother of the wolf.
+271	 The grass is always greener on the other side.
+272	 Once in a blue moon!
+273	 Do not judge a man by the whiteness of his turban.
+274	 Time is the best counsellor.
+275	 Soft fire makes sweet malt.
+276	 Some rise by sin, and some by virtue fall.
+277	 A quiet conscience sleeps in thunder.
+278	 Lying and stealing are next door neighbours.
+279	 Tighten your helmet strings in victory.
+280	 Time tries truth.
+281	 We are born crying, live complaining, and die disappointed.
+282	 We cannot come to honour under coverlet.
+283	 We are the authors of our own disasters.
+284	 There is no royal road to learning.
+285	 That's like putting a fifth wheel to a coach.
+286	 Prefer loss to unjust gain.
+287	 Presents keep friendship warm.
+288	 One shoe will not fit every foot.
+289	 Night gives counsel.
+290	 A man must wait for the right moment.
+291	 Law makers should not be law breakers.
+292	 In good fortune, prudence; in ill fortune, patience.
+293	 He that goes to bed thirsty rises healthy.
+294	 Pride goes before a fall.
+295	 Never too much of anything.
+296	 Man proposes but God disposes.
+297	 Late fruit keeps well.
+298	 An injury forgiven is better than an injury revenged.
+299	 He that excuses himself accuses himself.
+300	 Purpose is what gives life a meaning.
+301	 The net of the sleeper catches fish.
+302	 Man's best candle is his understanding.
+303	 Learning without thought is labour lost.
+304	 In juries we write in marble; kindness in dust.
+305	 He that falls today may rise tomorrow.
+306	 I cannot be your friend and your flatterer too.
+307	 The husband is always last to know.
+308	 If you would enjoy the fruit, pluck not the flower.
+309	 If you trust before you try, you may repent before you die.
+310	 Shoemaker's wives are worst shod.
+311	 Poor and liberal, rich and covetous.
+312	 Listen to what is well said even from an enemy.
+313	 A light heart lives long.
+314	 The old forget; the young don't know.
+315	 Peace is the fairest form of happiness.
+316	 Pain past is pleasure.
+317	 Luck comes to those who look after it.
+318	 A man finds himself seven years older than the day after his marriage.
+319	 The last drop makes the cup run over.
+320	 Early to bed and early to rise, makes a man healthy, wealthy and wise.
+321	 Birth is much, but breeding is more.
+322	 A black plum is as sweet as a white.
+323	 Do in Rome as the Romans do.
+324	 Fairest gems lie deepest.
+325	 Good and evil are chiefly in the imagination.
+326	 If you have no enemies, it is a sign fortune has forgotten you.
+327	 The fortune teller cannot tell his our fortune.
+328	 From short pleasure, long repentance.
+329	 Gain at the expense of reputation should be called loss.
+330	 To climb steep hills requires slow pace at first.
+331	 A bold attempt is half success.
+332	 Be commonplace and modest, and everything is within your reach.
+333	 Be swift to hear, slow to speak.
+334	 Follow the river, and you'll get to the sea.
+335	 The fortune of the house stands by its virtue.
+336	 Cleave the log according to the grain.
+337	 Blessings are not valued till they are gone.
+338	 Be not the first to quarrel nor the last to make it up.
+339	 He who buys what he doesn't want will sell what he does want.
+340	 Life admits not of delays.
+341	 Love shortens distance.
+342	 Money changes hands.
+343	 Man can do no more than he can.
+344	 A man apt to promise is apt to forget.
+345	 Knowledge has no enemy but ignorance.
+346	 Iron not used soon rusts.
+347	 It is always time to do good.
+348	 No medicine can cure folly.
+349	 The mind makes heaven of hell and hell of heaven.
+350	 A man has choice to begin love, but not to end it.
+351	 Life is made up of little things.
+352	 It is a long lane that has no turning.
+353	 None is deceived but he who trusts.
+354	 Little said soon amended.
+355	 Live not to eat, but eat to live.
+356	 Life is half spent before we know what it is.
+357	 In vain he craves advice that will not follow it.
+358	 It is a foolish sheep that makes the wolf his confession.
+359	 Patience wears out stones.
+360	 Pardon all but yourself.
+361	 Patience is genius.
+362	 Life has no pleasure nobler than that of friendship.
+363	 In travelling, company; in life, sympathy.
+364	 It does no pay to be short tempered.
+365	 Two's company, three's none.
+366	 One good turn deserves another.
+367	 One cannot put back the clock.
+368	 Better late than never.
+369	 Familiarity breeds contempt.
+370	 Make hay while the sun shines.
+371	 You're not the Lone Ranger.
+372	 The new broom sweeps right.
+373	 Stay cool but don't freeze!
+374	 Keep oaring.
+375	 Ill weeds grow apace.
+376	 Money does not grow on trees.
+377	 No man can tell what future brings forth.
+378	 The cobbler should stick to his last.
+379	 The more laws, the more offenders.
+380	 You can't hold a candle to the sun.
+381	 Store is no sore.
+382	 Still waters run deep.
+383	 Set every man to do what he was made for.
+384	 Riches serve a wise man, and govern a fool.
+385	 Mouth in the heart.
+386	 A mother's heart is always with her children.
+387	 Learning makes a good man better and an ill man worse.
+388	 Kind words are worth much and they cost little.
+389	 He who chooses takes the worst.
+390	 He sits not sure that sits too high.
+391	 He steals a bell by covering his own ears.
+392	 A dead man never comes to life again.
+393	 A home having no child is like as the earth having no sun.
+394	 Finders are keepers.
+395	 Eagles don't catch flies.
+396	 Do not cross the bridge until you come to it.
+397	 Avoid such men as will do you harm.
+398	 Spare the rod and spoil the child.
+399	 He who would catch fish, must not mind getting wet.
+400	 When god closes one door, he opens another.
+401	 Sweet discourse makes short days and nights.
+402	 The pot calls the kettle black.
+403	 None is so blind as those who won't see.
+404	 No morning sun lasts a whole day.
+405	 Knowledge in youth is wisdom in age.
+406	 An ill father desires not an ill son.
+407	 Great spenders are bad lenders.
+408	 The flame is not far away from the smoke.
+409	 Five hours sleeps a traveller, seven a scholar, eight a merchant, and eleven every knave.
+410	 Make haste slowly.
+411	 We all have enough strength to bear the misfortunes of others.
+413	 Pain and death are apart of life. To reject them is to reject life itself.
+414	 Behind the clouds is the sun still shining.
+415	 A good wife is worth gold.
+416	 A father maintains ten children better than ten children one father.
+417	 A burden of one's own choice is not felt.
+418	 It is love that makes the world go round.
+419	 It is more blessed to give than to receive.
+420	 Liberality is not giving largely, but wisely.
+421	 The frog will jump back into the pool although it sits on a golden stool.
+422	 Friendship is love with understanding.
+423	 Everybody is wise after the event.
+424	 To lose is to win.
+425	 Frugality is a great revenue.
+426	 He who inquires much learns much.
+427	 Friends are thieves of time.
+428	 From labour health, from health contentment springs.
+429	 Everybody's business is nobody's business.
+430	 Constancy is the foundation of the virtue.
+431	 Full of courtesy, full of craft.
+432	 He who has once burnt his mouth always blows his soup.
+433	 Every Jack has his Gill.
+434	 Every little helps.
+435	 I want to die knowing one more thing.
+436	 I think the only reason one loves, monsieur, is for his own pleasure.
+437	 Man, know thyself. All wisdom centres there.
+438	 Man is but a reed, the weakest in nature, but he s a thinking reed.
+439	 If the staff be crooked, the shadow cannot be straight.
+440	 The greatest talkers are always the least doers.
+441	 Pride will have a fall.
+442	 The best looking glass is an old friend.
+443	 Things done cannot be undone.
+444	 The best of the sport is to do the deed and say nothing.
+445	 To kick the sand with the hind legs.
+446	 A good Jack makes a good Jill.
+447	 In the looking glass we see the form, in wine the heart.
+448	 Fish will take best after rain.
+449	 You're never too old to learn.
+450	 All truths are not to be told.
+451	 A little learning is a dangerous thing.
+452	 A big fish must swim in deep waters.
+453	 Coming events cast their shadows before.
+454	 He teaches ill who teaches all.
+455	 Over shoes, over boots.
+456	 Overdone is worse than undone.
+457	 Old friends and old wine are best.
+458	 Mingle your joys sometimes with your earnest occupation.
+459	 Man can climb to the highest summits, but he can not dwell there long.
+460	 Keep not two tongues in one mouth.
+461	 Translators, traitors.
+462	 Money is round and rolls away.
+463	 The moon's not seen where the sun shines.
+464	 Liars should have a good memory.
+465	 Life is compared to a voyage.
+466	 If in the morning I learn of the truth, I shall die without regrets in the evening.
+467	 Judge not of men or things at first sight.
+468	 For having loved and lost, you are a richer person.
+469	 Man, know thyself. All wisdom centres there.
+470	 No life without pain.
+471	 In the looking glass we see the form, in wine the heart.
+472	 Live to learn and learn to live.
+473	 In the looking glass we see the form, in wine the heart.
+474	 In every beginning think of the end.
+475	 He that is master of himself will soon be master of others.
+476	 He that has most time has none to lose.
+477	 Fame is but the breath of the people.
+478	 Don't throw away the old shoes till you've got new ones.
+479	 The company makes the feast.
+480	 Books still accomplish miracles; they persuade man.
+481	 Better wear out shoes than sheets.
+482	 Great things have small beginnings.
+483	 He doubles his gift who gives in time.
+484	 He has lived ill that knows not how to die well.
+485	 In a calm sea every man is a pilot.
+486	 Law catches flies, but lets hornets go free.
+487	 Neither praise nor dispraise yourself; your actions serve the turn.
+488	 A good reader is as rare as a good writer.
+489	 Hard upon hard makes a bad stone wall, but soft makes none at all.
+490	 He that blames would buy.
+491	 The last five minutes determine the issue.
+492	 Man's life is a progress, and not a station.
+493	 One murder makes a villain, millions a hero.
+494	 Truth is lost by too much controversy.
+495	 Try a horse by riding him; try a man by associating with him.
+496	 Take time by the forelock.
+497	 The tailor ill dressed, the shoemaker ill shod.
+498	 Take, have, and keep are pleasant words.
+499	 Take away the case and the effect must cease.
+500	 To take a musket to kill a butterfly.
+501	 Small sorrows speak; great ones are silent.
+502	 Slow to resolute, but in performance quick.
+503	 To preserve friendship, one must build walls.
+504	 Of the dead and absent speak well, or not at all.
+505	 Man is made great or little by his own will.
+506	 A life of leisure and a life of laziness are two things.
+507	 He conquers a second time who controls himself in victory.
+508	 God is in an honest man's heart.
+509	 Four eyes see more than two.
+510	 Faith can remove mountains.
+511	 Soon ripe, soon rotten; soon wise, soon foolish.
+512	 Loves makes all hearts gentle.
+513	 It is harder to unlearn than to learn.
+514	 God gives all things to industry.
+515	 A fool is like other men as long as he is silent.
+516	 He has honey in his mouth, gall in his heart.
+517	 He catches the wind with a net.
+518	 Hope is the poor man's bread.
+519	 A great city is a great desert.
+520	 Fancy may kill or cure.
+521	 The ebb will fetch off what the tide brings in.
+522	 Be sure you are right, then go ahead.
+523	 You and I draw both in the same yoke.
+524	 The wrong doer never lacks a pretext.
+525	 We must live as we can, not as we would.                                      
