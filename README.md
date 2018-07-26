@@ -18,13 +18,11 @@ Hadoop을 통한 역인덱싱
 ◎ 소스 코드
 
 ![image](https://user-images.githubusercontent.com/34965935/43256997-71ceb364-9109-11e8-914e-ac3c5a564ff7.png)
-                                - Map클래스이며 문서명을 key, 문서내용을 value값으로 받아 
-	                    단어 Key값에 대한 Value값으로 {문서명,빈도수}로 파일을 mapping해줍니다.
+ - Map클래스이며 문서명을 key, 문서내용을 value값으로 받아 단어 Key값에 대한 Value값으로 {문서명,빈도수}로 파일을 mapping해줍니다.
 
 
 ![image](https://user-images.githubusercontent.com/34965935/43257018-88a62b80-9109-11e8-84cc-99380a5f6e47.png)
-                                             -Mapping된 데이터들은 하나의 리듀서로 모아서,
-	                         각각의 키 값의 문서명과 빈도수를 통합해서 형식에 맞게 출력한다.
+-Mapping된 데이터들은 하나의 리듀서로 모아서,각각의 키 값의 문서명과 빈도수를 통합해서 형식에 맞게 출력한다.
 
 
 ![image](https://user-images.githubusercontent.com/34965935/43257038-9a4c7358-9109-11e8-9e41-5a8be1979152.png)
