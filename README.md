@@ -22,6 +22,7 @@ Hadoop을 통한 역인덱싱
 
 
 ![image](https://user-images.githubusercontent.com/34965935/43257018-88a62b80-9109-11e8-84cc-99380a5f6e47.png)
+
 -Mapping된 데이터들은 하나의 리듀서로 모아서,각각의 키 값의 문서명과 빈도수를 통합해서 형식에 맞게 출력한다.
 
 
